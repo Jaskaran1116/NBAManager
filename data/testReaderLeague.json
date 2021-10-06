@@ -1,0 +1,21 @@
+{
+  "name": "FixtureLeague",
+  "fantasyClub": [
+    {
+      "squad": [],
+      "clubName": "Los Angeles Lakers",
+      "clubPoints": 0
+    },
+    {
+      "squad": [{
+      "playerName": "Lebron James",
+      "playerAssist": 10,
+      "playerPoints": 0,
+      "playerPosition": "SF",
+      "playerBasket": 10
+    }],
+      "clubName": "Miami Heat",
+      "clubPoints": 100
+    }
+  ]
+}

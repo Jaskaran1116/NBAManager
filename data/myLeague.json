@@ -1,0 +1,14 @@
+{
+    "name": "MyLeague",
+    "fantasyClub": [{
+        "squad": [{
+            "playerName": "Jas",
+            "playerAssist": 21,
+            "playerPoints": 173,
+            "playerPosition": "PF",
+            "playerBasket": 22
+        }],
+        "clubName": "Lakers",
+        "clubPoints": 0
+    }]
+}
